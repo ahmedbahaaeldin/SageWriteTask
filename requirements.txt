@@ -1,0 +1,5 @@
+sentence-transformers==2.0.0
+sentencepiece==0.1.96
+tokenizers==0.10.3
+torch==1.7.0
+transformers==4.9.1
